@@ -14,16 +14,26 @@ Full stack responsive web ordering system application
 *User side:
 
 -User can discover catarogies and products.
+
 -User can send complaints to the administration using a fast form.
+
 -User can call the facility's phone numbers with one click
+
 -User can obtain a map of the facility's directions with one click
+
 -User can watch videos that be uploaded by admin
+
 -User can book a table
+
 -User can make orders
+
 -User can chosse quantity for each product and write some note for it
+
 -User can manage his crat and delete product or empty cart directly
 -User dont need to register a new account to make orders
+
 -User can use discount copoun 
+
 -User can choose the branch and its affiliated areas dynamically
 
 
