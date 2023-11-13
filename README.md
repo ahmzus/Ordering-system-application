@@ -100,6 +100,7 @@ Full stack responsive web ordering system application
 
 *An Arabic version is available for this application (RTL version).
 
+![Capture](https://github.com/ahmzus/Responsive-ordering-system-application/assets/69791889/eff2d46c-1d46-48cc-9c38-158e8b78c9ee)
 ![2](https://github.com/ahmzus/Responsive-ordering-system-application/assets/69791889/638922c9-f79c-4642-8194-e89232b408cf)
 ![Capture1](https://github.com/ahmzus/Responsive-ordering-system-application/assets/69791889/5566e442-64c3-4290-8b66-3b57424d70c3)
 ![Capture](https://github.com/ahmzus/Responsive-ordering-system-application/assets/69791889/536dbf31-dc60-4511-9fd5-01b9a0011f67)
